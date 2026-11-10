@@ -38,7 +38,7 @@ Dogechain Wallet is a free, open-source, non-custodial Dogecoin wallet for Windo
 
 ---
 
-## 📚 Popular guides
+## 📚 Popular guides.
 
 | Guide | What it covers |
 |:--|:--|
